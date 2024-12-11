@@ -1,1 +1,8 @@
 ¿Qué es Bitcoin?
+
+Bitcoin es una criptomoneda, una moneda virtual diseñada para actuar como dinero y como una forma
+de pago fuera del control de cualquier persona, grupo o entidad,
+eliminando así la necesidad de terceros en las transacciones financieras.
+Se recompensa a los mineros de blockchain por verificar transacciones y puede 
+ser comprada en varios intercambios.
+
