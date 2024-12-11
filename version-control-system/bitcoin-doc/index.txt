@@ -6,3 +6,16 @@ eliminando así la necesidad de terceros en las transacciones financieras.
 Se recompensa a los mineros de blockchain por verificar transacciones y puede 
 ser comprada en varios intercambios.
 
+La tecnología blockchain de Bitcoin
+
+Las criptomonedas son parte de una blockchain y de la red necesaria para alimentarla.
+Una blockchain es un libro de contabilidad distribuido, una base de datos compartida que almacena datos.
+Los métodos de cifrado protegen los datos dentro de la blockchain.
+Cuando se realiza una transacción en la blockchain, la información del bloque anterior se copia a un nuevo bloque con los nuevos datos,
+cifrados, y los validadores verifican la transacción (llamados mineros) en la red.
+Cuando se verifica una transacción, se abre un nuevo bloque y se crea un Bitcoin que se entrega como recompensa a los mineros
+que verificaron los datos dentro del bloque; luego, pueden usarlo, conservarlo o venderlo.
+
+Bitcoin utiliza el algoritmo hash SHA-256 para cifrar los datos almacenados en los bloques de la blockchain.
+En pocas palabras, los datos de transacción almacenados en un bloque se cifran en un número hexadecimal de 256 bits.
+Ese número contiene todos los datos de transacción e información vinculada a los bloques anteriores a ese bloque.
