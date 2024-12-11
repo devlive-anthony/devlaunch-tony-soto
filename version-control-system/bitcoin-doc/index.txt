@@ -19,3 +19,11 @@ que verificaron los datos dentro del bloque; luego, pueden usarlo, conservarlo o
 Bitcoin utiliza el algoritmo hash SHA-256 para cifrar los datos almacenados en los bloques de la blockchain.
 En pocas palabras, los datos de transacción almacenados en un bloque se cifran en un número hexadecimal de 256 bits.
 Ese número contiene todos los datos de transacción e información vinculada a los bloques anteriores a ese bloque.
+
+Para utilizar sus bitcoins, necesita tener una billetera de criptomonedas.
+Las billeteras contienen las claves privadas de los bitcoins que posee, que deben ingresarse al realizar una transacción.
+Muchos comerciantes, minoristas y tiendas aceptan bitcoins como medio de pago de bienes y servicios.
+
+Las tiendas físicas que aceptan criptomonedas generalmente muestran un cartel que dice “Bitcoin aceptado aquí”;
+las transacciones se pueden realizar con la terminal de hardware o la dirección de billetera requeridas a través de códigos QR y aplicaciones de pantalla táctil.
+Un negocio en línea puede aceptar bitcoins fácilmente agregando esta opción de pago a sus otras opciones de pago en línea: tarjetas de crédito, PayPal, etc.
